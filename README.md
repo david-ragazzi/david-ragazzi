@@ -1,16 +1,15 @@
-### Hi there 👋
+I'm a software engineer specializing in AI and desktop applications using Python, QT, C#, SqlServer, etc.
 
-<!--
-**david-ragazzi/david-ragazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of my projects which I created:
+https://github.com/htm-community/nupic.studio
+https://github.com/david-ragazzi/HtmSpellingChecker
 
-Here are some ideas to get you started:
+The projects which I've contributed:
+https://github.com/numenta/nupic
+https://github.com/numenta/nupic.core
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a pythonic language that I created as an alternative to C/C++, Rust, etc:
+https://github.com/ragazzi-robotics/ragaz
+
+How to reach me:
+https://www.linkedin.com/in/david-ragazzi-3813b421/
