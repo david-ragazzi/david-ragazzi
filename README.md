@@ -10,4 +10,4 @@ The projects which I've contributed:
 * https://github.com/numenta/nupic.core
 
 How to reach me:
-* https://www.linkedin.com/in/david-ragazzi-3813b421/
+* https://www.linkedin.com/in/david-ragazzi/
