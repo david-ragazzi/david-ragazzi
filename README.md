@@ -1,4 +1,4 @@
-I'm a software engineer specialized in AI, 3D and desktop applications using Python, QT, C#, SqlServer, etc.
+I'm a software engineer specialized in AI, 3D and desktop applications using Python, Django, React, QT, C#, SQL, etc.
 
 Here are some of my projects which I created:
 * https://github.com/htm-community/nupic.studio
